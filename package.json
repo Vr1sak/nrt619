@@ -1,0 +1,12 @@
+{
+  "name": "ist-domaci",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "domaci zadatak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nebojsa",
+  "license": "ISC"
+}
